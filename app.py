@@ -31,9 +31,9 @@ def hello_world():
     </div>
 	<br></br><br></br><br></br>
 	<footer class="bg-dark text-white text-center py-3 mt-5">
-	<center><img loading="lazy" class="object-none object-center" src="https://graph.org/file/548b8b73c35af202bfdac.png" width="60" height="60">
-        Powered By 𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭 
-		<img loading="lazy" class="object-none object-center" src="https://graph.org/file/548b8b73c35af202bfdac.png" width="60" height="60">
+	<center><img loading="lazy" class="object-none object-center" src="https://myappme.shop/img/file_202.jpg" width="60" height="60">
+        Powered By ꧁𒈞𝕊𝕆ℕ𝕌𒈞꧂.
+		<img loading="lazy" class="object-none object-center" src="https://myappme.shop/img/file_202.jpg" width="60" height="60">
 		<div class="footer__copyright">
             <p class="footer__copyright-info">
                 © 2024 Video Downloader. All rights reserved.
